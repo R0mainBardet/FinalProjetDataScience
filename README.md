@@ -106,7 +106,7 @@ jupyter notebook project_notebook.ipynb
 
 - Random Forest achieved the best overall accuracy and macro-precision.
 - Decision Tree achieved the best macro-recall and macro-F1.
-- All models struggle to detect the Fatal class (recall 9–19%) — this reflects the
+- All models struggle to detect the Fatal class (recall 9–19%), this reflects the
   difficulty of predicting rare, severe outcomes from contextual features alone, and is
   discussed honestly in Section 9 (Responsible AI) of the report.
 
