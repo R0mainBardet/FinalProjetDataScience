@@ -119,7 +119,7 @@ jupyter notebook project_notebook.ipynb
 - `presumed_cause` is dominated by "speeding" (~74%), likely a reporting artefact, and
   was excluded from the model to avoid reinforcing this bias.
 - Reporting coverage may not be uniform across agencies, provinces, or years.
-- The model is intended for descriptive/policy-insight purposes only — not for
+- The model is intended for descriptive/policy-insight purposes only, not for
   real-time triage or individual-level prediction.
 
 ---
