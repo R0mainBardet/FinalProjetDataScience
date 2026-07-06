@@ -77,7 +77,7 @@ CPE_Project_BRQ/
 1. Clone this repository:
 ```bash
 git clone <repository URL>
-cd CPE_Project_BRQ
+cd FinalProjetDataScience
 ```
 
 2. Install dependencies:
